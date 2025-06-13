@@ -1,8 +1,3 @@
-# list
-
-# Add New Comment
-
-# Add additional New Comment
 
 numbers = [12, 43, 12, 44, 43, 87, 33,]
 unique_list = []
