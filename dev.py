@@ -1,5 +1,5 @@
 
-numbers = [12, 43, 12, 44, 43, 87, 33,]
+numbers = [12, 43, 12, 44, 43, 87, 33,45,67,90]
 unique_list = []
 
 for num in numbers:
